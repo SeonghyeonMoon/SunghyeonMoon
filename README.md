@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Sunghyeon%20Moon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&text=Sunghyeon%20Moon&fontSize=90&height=300)
 
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=SunghyeonMoon&show_icons=true&theme=dark"/>
@@ -38,4 +38,4 @@
 ### Backjoon Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codestudy4022)](https://solved.ac/codestudy4022/) 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=100&section=footer&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&fontSize=90&height=100&section=footer)
