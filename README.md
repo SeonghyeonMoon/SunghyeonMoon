@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Sunghyeon%20Moon&fontSize=90)
 
 ### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=SunghyeonMoon&show_icons=true&theme=dark" style="height: 200px"/></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunghyeonMoon&layout=compact&theme=dark" style="height: 200px"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=SunghyeonMoon&show_icons=true&theme=dark"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunghyeonMoon&layout=compact&theme=dark"/></a>
 
 ### Tech
 
