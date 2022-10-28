@@ -6,11 +6,27 @@
 
 ### Tech
 
+#### Language
+
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /></a>
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /></a>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" /></a>
+
+#### Test
+
+<img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="100" height="100" /></a>
+<img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="100" height="100" /></a>
+
 #### Client
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000000"/></a>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=FFFFFF"/></a>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" /></a>
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="100" height="100" /></a>
+<img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="100" height="100" /></a>
+
+#### Deploy
+
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="100" height="100" /></a>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="100" height="100" /></a>
 
 #### Server
 
@@ -19,17 +35,7 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=FFFFFF"/></a>
 
-#### Language
-
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF"/></a>
-
-#### Deploy
-
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=FFFFFF"/></a>
-
 ### Backjoon Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codestudy4022)](https://solved.ac/codestudy4022/) 
 
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=100&section=footer&fontSize=90)
