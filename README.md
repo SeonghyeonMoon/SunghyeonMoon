@@ -12,16 +12,16 @@
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /></a>
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" /></a>
 
-#### Test
-
-<img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="100" height="100" /></a>
-<img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="100" height="100" /></a>
-
 #### Client
 
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" /></a>
 <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="100" height="100" /></a>
 <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="100" height="100" /></a>
+
+#### Test
+
+<img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="100" height="100" /></a>
+<img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="100" height="100" /></a>
 
 #### Deploy
 
